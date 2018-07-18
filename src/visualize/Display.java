@@ -1,4 +1,4 @@
-package graphics;
+package visualize;
 
 import java.awt.image.BufferedImage;
 import java.io.File;
